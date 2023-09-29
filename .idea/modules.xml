@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Revision.iml" filepath="$PROJECT_DIR$/Java_Revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patters/Patters.iml" filepath="$PROJECT_DIR$/Patters/Patters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two Pointers/Two Pointers.iml" filepath="$PROJECT_DIR$/Two Pointers/Two Pointers.iml" />
     </modules>
   </component>
