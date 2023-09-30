@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Revision.iml" filepath="$PROJECT_DIR$/Java_Revision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patters/Patters.iml" filepath="$PROJECT_DIR$/Patters/Patters.iml" />
