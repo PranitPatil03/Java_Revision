@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Revision.iml" filepath="$PROJECT_DIR$/Java_Revision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patters/Patters.iml" filepath="$PROJECT_DIR$/Patters/Patters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time Complexity/Time Complexity.iml" filepath="$PROJECT_DIR$/Time Complexity/Time Complexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two Pointers/Two Pointers.iml" filepath="$PROJECT_DIR$/Two Pointers/Two Pointers.iml" />
     </modules>
   </component>
